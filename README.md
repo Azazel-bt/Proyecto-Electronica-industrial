@@ -1,4 +1,4 @@
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/6e675303-09e2-4587-9734-9f1262fa0b5e" /># Validación Experimental de Reguladores de Voltaje (LM7805 vs LM2596)
+
 
 ## 📋 Descripción General
 
