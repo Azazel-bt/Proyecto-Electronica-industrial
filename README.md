@@ -185,9 +185,8 @@ https://github.com/user-attachments/assets/67e948f3-6915-4d66-a084-bb976c23ab5f
 ## 🖼️ Figuras del Proyecto
 | LM7805 | LM2596 |
 |:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/a1146125-4de9-4187-9172-d87ae454ec94" width="300" alt="Montaje del LM7805 en protoboard"> | <img src="https://github.com/user-attachments/assets/a463f2d7-e565-49ac-9d6d-56c3b2ea8253" width="300" alt="Montaje del LM2596 en protoboard"> |
+| <img src="[https://github.com/user-attachments/assets/a1146125-4de9-4187-9172-d87ae454ec94](https://github.com/user-attachments/assets/653f2e70-8b6f-4543-aa2f-d08fc7d8fa27)" width="300" alt="Montaje del LM7805 en protoboard"> | <img src="https://github.com/user-attachments/assets/a463f2d7-e565-49ac-9d6d-56c3b2ea8253" width="300" alt="Montaje del LM2596 en protoboard"> |
 | **Fig. 1.** Montaje del regulador lineal LM7805 con capacitor de 4700 μF y disipador. | **Fig. 2.** Montaje del regulador conmutado buck LM2596 con capacitores adicionales de 4700 μF. |
-
 
 
 
