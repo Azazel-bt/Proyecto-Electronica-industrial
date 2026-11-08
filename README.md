@@ -19,7 +19,7 @@ Este repositorio contiene el proyecto de electrónica industrial que documenta l
 - **Juan David Ramírez** — [juan2181510@correo.uis.edu.co](mailto:juan2181510@correo.uis.edu.co)
 
 **Institución:** Universidad Industrial de Santander (UIS) — Bucaramanga, Colombia  
-**Escuela:** Ingenierías Eléctrica, Electrónica y de Telecomunicaciones (EIEET)
+**Escuela:** Ingenierías Eléctrica, Electrónica y de Telecomunicaciones (E3T)
 
 ---
 
