@@ -190,23 +190,3 @@ https://github.com/user-attachments/assets/67e948f3-6915-4d66-a084-bb976c23ab5f
 
 
 ---
-
-## 📁 Estructura del Repositorio
-
-```text
-📦 Proyecto-Electronica-Industrial
-├── 📄 README.md
-├── 📂 Informe/
-│   └── Proyecto_de_electronica_industrial_v2.pdf
-├── 📂 Simulaciones/
-│   ├── LM7805.asc
-│   └── LM2596.asc
-├── 📂 Evidencias/
-│   ├── 📂 Fotos/
-│   │   ├── montaje_lm7805.jpg
-│   │   ├── montaje_lm2596.jpg
-│   │   └── ...
-│   └── 📂 Videos/
-│       └── (enlaces a videos)
-└── 📂 Datos/
-    └── mediciones.xlsx
