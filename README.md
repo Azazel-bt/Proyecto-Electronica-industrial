@@ -1,4 +1,4 @@
-# Validación Experimental de Reguladores de Voltaje (LM7805 vs LM2596)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/6e675303-09e2-4587-9734-9f1262fa0b5e" /># Validación Experimental de Reguladores de Voltaje (LM7805 vs LM2596)
 
 ## 📋 Descripción General
 
@@ -6,7 +6,7 @@ Este repositorio contiene el proyecto de electrónica industrial que documenta l
 
 | Topología | Regulador | Eficiencia medida | Rizado de salida |
 |-----------|-----------|-------------------|------------------|
-| Lineal | LM7805 | 49.7%* | Por medir |
+| Lineal | LM7805 | 49.7%* | < 10 mV pico (cumple) |
 | Conmutada Buck | LM2596 | 82.8% | 40 mV pico (cumple) |
 
 > *Valor que excede la cota física teórica (39.6%), indicando incertidumbre en la medición de corriente de entrada.
@@ -161,48 +161,35 @@ Evaluar y comparar experimentalmente las topologías de regulación de voltaje *
 
 ### 1. Montaje y medición del LM7805
 
-<!-- Reemplazar con enlace al video del montaje y mediciones del LM7805 -->
 
-- [Video: Montaje LM7805](URL_DEL_VIDEO_LM7805)
-- [Video: Medición de rizado y eficiencia LM7805](URL_DEL_VIDEO_MEDICIONES_LM7805)
+
+https://github.com/user-attachments/assets/833c5518-4beb-4623-a960-cfdfed4dd817
+
+
 
 ### 2. Montaje y medición del LM2596
 
-<!-- Reemplazar con enlace al video del montaje y mediciones del LM2596 -->
 
-- [Video: Montaje LM2596](URL_DEL_VIDEO_LM2596)
-- [Video: Medición de rizado y eficiencia LM2596](URL_DEL_VIDEO_MEDICIONES_LM2596)
+
+https://github.com/user-attachments/assets/67e948f3-6915-4d66-a084-bb976c23ab5f
+
+
 
 ### 3. Simulaciones en LTspice
 
 <!-- Reemplazar con enlace al video de las simulaciones -->
 
-- [Video: Simulación LM7805 en LTspice](URL_DEL_VIDEO_SIMULACION_LM7805)
-- [Video: Simulación LM2596 en LTspice](URL_DEL_VIDEO_SIMULACION_LM2596)
-
-### 4. Comparación final y conclusiones
-
-<!-- Reemplazar con enlace al video de conclusiones -->
-
-- [Video: Comparación final de topologías](URL_DEL_VIDEO_COMPARACION_FINAL)
-
-<!-- ============================================================ -->
-<!-- FIN DE SECCIÓN DE VIDEOS                                      -->
-<!-- ============================================================ -->
 
 ---
 
 ## 🖼️ Figuras del Proyecto
+<img width="348" height="668" alt="image" src="https://github.com/user-attachments/assets/a1146125-4de9-4187-9172-d87ae454ec94" />
+<img width="365" height="650" alt="image" src="https://github.com/user-attachments/assets/a463f2d7-e565-49ac-9d6d-56c3b2ea8253" />
 
-<!-- Insertar las imágenes del montaje y simulaciones -->
-<!-- Ejemplo: ![Montaje LM7805](ruta/a/la/imagen.jpg) -->
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/633f7f30-f69e-4418-ac5a-0aae7c346b8c" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/8e0dc85d-1c95-436f-ad56-d0abad4864f6" />
 
-| Figura | Descripción |
-|--------|-------------|
-| Fig. 1 | Montaje del LM7805 en protoboard |
-| Fig. 2 | Simulación del LM7805 en LTspice |
-| Fig. 3 | Montaje del LM2596 en protoboard |
-| Fig. 4 | Simulación del LM2596 en LTspice |
+
 
 ---
 
